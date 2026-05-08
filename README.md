@@ -24,7 +24,7 @@ I build practical tools for coding agents, security research, and developer work
 
 ## GitHub activity
 
-![sting8k github streak](https://github-readme-streak-stats.herokuapp.com/?user=sting8k)
+![sting8k github streak](https://github-readme-streak-stats.herokuapp.com/?user=sting8k&theme=transparent)
 
 ## Connect
 
