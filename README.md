@@ -22,6 +22,10 @@ I build practical tools for coding agents, security research, and developer work
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
+## GitHub stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sting8k&show_icons=true&theme=transparent&hide_border=true)
+
 ## Connect
 
 [![X](https://img.shields.io/badge/-@sting8k__-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/sting8k_)
