@@ -4,6 +4,7 @@ I build practical tools for coding agents, security research, and developer work
 
 ## What I'm working on
 
+- **[jump](https://github.com/sting8k/jump)** — Browser-first session manager for AI agent/TUI workflows, notifications, and easy remote access via Tailscale/tsnet or `jump-relayd`.
 - **[srcwalk](https://github.com/sting8k/srcwalk)** — Agent-focused code navigator CLI for outlining, searching, and tracing codebases.
 - **[pi-vcc](https://github.com/sting8k/pi-vcc)** — Fast, lossless session compaction for Pi without LLM calls.
 - **[pi-snap-edit](https://github.com/sting8k/pi-snap-edit)** — Precise, script-free edit tools for Pi.
