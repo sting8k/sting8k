@@ -2,14 +2,21 @@
 
 I build practical tools for coding agents, security research, and developer workflows.
 
-## What I'm working on
+## Projects
 
 - **[jump](https://github.com/sting8k/jump)** — Browser-first session manager for AI agent/TUI workflows, notifications, and easy remote access via Tailscale/tsnet or `jump-relayd`.
 - **[srcwalk](https://github.com/sting8k/srcwalk)** — Agent-focused code navigator CLI for outlining, searching, and tracing codebases.
-- **[pi-vcc](https://github.com/sting8k/pi-vcc)** — Fast, lossless session compaction for Pi without LLM calls.
-- **[pi-snap-edit](https://github.com/sting8k/pi-snap-edit)** — Precise, script-free edit tools for Pi.
-- **[pi-augment](https://github.com/sting8k/pi-augment)** — Augment-style prompt rewriting for Pi.
-- **[pi-themes](https://github.com/sting8k/pi-themes)** — Custom themes for Pi Coding Agent.
+
+### 🧩 My Pi suite
+
+| Extension | Description |
+| :--- | :--- |
+| [pi-snap-edit](https://github.com/sting8k/pi-snap-edit) | Faster, precise, script-free edit tools for Pi. |
+| [pi-vcc](https://github.com/sting8k/pi-vcc) | Smart, Fast & Lossless session compaction for Pi. No LLM calls. |
+| [pi-droid-styling](https://github.com/sting8k/pi-droid-styling) | Opinionated Pi UI styling extension: compact startup UI, boxed editor, cleaner tool tags, message prefixes, footer stats, and reload-safe render patches. |
+| [pi-themes](https://github.com/sting8k/pi-themes) | Custom themes for Pi Coding Agent. Use with pi-droid-styling. |
+| [pi-augment](https://github.com/sting8k/pi-augment) | Augment-style prompt rewriter for Pi — one command, stronger prompts. |
+| [pi-fastboot](https://github.com/sting8k/pi-fastboot) | Quick & dirty extension that makes normal Pi startup feel close to `PI_OFFLINE=1`. |
 
 ## Security tools
 
@@ -30,3 +37,4 @@ I build practical tools for coding agents, security research, and developer work
 ## Connect
 
 [![X](https://img.shields.io/badge/-@sting8k__-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/sting8k_)
+
