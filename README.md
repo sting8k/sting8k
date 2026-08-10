@@ -11,7 +11,7 @@ I build practical tools for coding agents, security research, and developer work
 
 | Extension | Description |
 | :--- | :--- |
-| [pi-srcwalk](https://github.com/sting8k/pi-srcwalk) | Agent-friendly `srcwalk` wrapper for Pi semantic search, inspect, show, and review tools. |
+| [pi-peer](https://github.com/sting8k/pi-peer) | Standalone peer-to-peer Pi communication over a HerdR workspace. |
 | [pi-snap-edit](https://github.com/sting8k/pi-snap-edit) | Faster, precise, script-free edit tools for Pi. |
 | [pi-vcc](https://github.com/sting8k/pi-vcc) | Smart, Fast & Lossless session compaction for Pi. No LLM calls. |
 | [pi-droid-styling](https://github.com/sting8k/pi-droid-styling) | Opinionated Pi UI styling extension: compact startup UI, boxed editor, cleaner tool tags, message prefixes, footer stats, and reload-safe render patches. |
