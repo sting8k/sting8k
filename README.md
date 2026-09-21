@@ -4,7 +4,6 @@ I build practical tools for coding agents, security research, and developer work
 
 ## Projects
 
-- **[jump](https://github.com/sting8k/jump)** - Browser-first session manager for AI agent/TUI workflows, notifications, and easy remote access via Tailscale/tsnet or `jump-relayd`.
 - **[srcwalk](https://github.com/sting8k/srcwalk)** - Agent-focused code navigator CLI for outlining, searching, and tracing codebases.
 
 ### My Pi suite
@@ -12,12 +11,12 @@ I build practical tools for coding agents, security research, and developer work
 | Extension | Description |
 | :--- | :--- |
 | [pi-peer](https://github.com/sting8k/pi-peer) | Standalone peer-to-peer Pi communication over a HerdR workspace. |
-| [pi-snap-edit](https://github.com/sting8k/pi-snap-edit) | Faster, precise, script-free edit tools for Pi. |
+| [pi-utils](https://github.com/sting8k/pi-utils) | Utility extensions for Pi: deep grep/glob search incl. gitignored files, background shell, script-mode edit, and a self-improving skill_write layer. |
 | [pi-vcc](https://github.com/sting8k/pi-vcc) | Smart, Fast & Lossless session compaction for Pi. No LLM calls. |
-| [pi-droid-styling](https://github.com/sting8k/pi-droid-styling) | Opinionated Pi UI styling extension: compact startup UI, boxed editor, cleaner tool tags, message prefixes, footer stats, and reload-safe render patches. |
+| [pi-droid-styling](https://github.com/sting8k/pi-droid-styling) | Opinionated Pi UI restyle: cleaner conversations, layouts & prompt styles, 25 built-in themes, batched streaming, and reload-safe render patches. |
 | [pi-themes](https://github.com/sting8k/pi-themes) | Custom themes for Pi Coding Agent. Use with pi-droid-styling. |
-| [pi-augment](https://github.com/sting8k/pi-augment) | Augment-style prompt rewriter for Pi - one command, stronger prompts. |
 | [pi-fastboot](https://github.com/sting8k/pi-fastboot) | Quick & dirty extension that makes normal Pi startup feel close to `PI_OFFLINE=1`. |
+| [pi-workspace-memory](https://github.com/sting8k/pi-workspace-memory) | Project-scoped Markdown memory for Pi: durable state, events, and research as an auxiliary channel, injected each turn. |
 
 ## Security tools
 
