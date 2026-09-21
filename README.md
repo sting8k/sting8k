@@ -5,6 +5,7 @@ I build practical tools for coding agents, security research, and developer work
 ## Projects
 
 - **[srcwalk](https://github.com/sting8k/srcwalk)** - Agent-focused code navigator CLI for outlining, searching, and tracing codebases.
+- **[paseo-mascot](https://github.com/sting8k/paseo-mascot)** - An AI-Slop koboyo page-mascot pet plugin for the Paseo composer.
 
 ### My Pi suite
 
