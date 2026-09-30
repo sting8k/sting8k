@@ -4,6 +4,7 @@ I build practical tools for coding agents, security research, and developer work
 
 ## Projects
 
+- **[piggery](https://github.com/sting8k/piggery)** - Piggery 🐖 - Lợn cày tasks: Your coding agents are pigs, piggery is the farm. Pi, Claude Code and Codex agents plowing tasks as one team.
 - **[srcwalk](https://github.com/sting8k/srcwalk)** - Agent-focused code navigator CLI for outlining, searching, and tracing codebases.
 - **[paseo-mascot](https://github.com/sting8k/paseo-mascot)** - An AI-Slop koboyo page-mascot pet plugin for the Paseo composer.
 
