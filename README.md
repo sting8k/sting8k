@@ -14,7 +14,7 @@ What I actually run in [Pi](https://github.com/earendil-works/pi) every day.
 
 | Job | Tool | Description |
 | :--- | :--- | :--- |
-| Look & feel | [pi-geek-tui](https://github.com/sting8k/pi-geek-tui) · [pi-droid-styling](https://github.com/sting8k/pi-droid-styling) + [pi-themes](https://github.com/sting8k/pi-themes) | Two UIs I switch between: geek rail with one-row tool calls, or a full restyle with 25 themes. |
+| Look & feel | [pi-geek-tui](https://github.com/sting8k/pi-geek-tui) · [pi-droid-styling](https://github.com/sting8k/pi-droid-styling) | Two UIs I switch between: geek rail with one-row tool calls, or a full restyle with 25 themes. |
 | Startup | [pi-fastboot](https://github.com/sting8k/pi-fastboot) | Normal startup almost as fast as `PI_OFFLINE=1`. |
 | Long sessions | [pi-vcc](https://github.com/sting8k/pi-vcc) | Lossless compaction, no LLM calls. |
 | Memory | [pi-workspace-memory](https://github.com/sting8k/pi-workspace-memory) | Project-scoped memory injected each turn. |
