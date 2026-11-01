@@ -18,11 +18,11 @@ What I actually run in [Pi](https://github.com/earendil-works/pi) every day.
 | Startup | [pi-fastboot](https://github.com/sting8k/pi-fastboot) | Normal startup almost as fast as `PI_OFFLINE=1`. |
 | Long sessions | [pi-vcc](https://github.com/sting8k/pi-vcc) | Lossless compaction, no LLM calls. |
 | Memory | [pi-workspace-memory](https://github.com/sting8k/pi-workspace-memory) | Project-scoped memory injected each turn. |
-| Sessions | [pi-smart-sessions](https://github.com/sting8k/pi-smart-sessions) · [pi-treex](https://github.com/travisp/pi-treex) | Auto-named sessions; better `/tree`. |
+| Sessions | [pi-treex](https://github.com/travisp/pi-treex) | Better `/tree` with sticky-left view and a detail pane. |
 | Tools | [pi-utils](https://github.com/sting8k/pi-utils) · [pi-search](https://github.com/heyhuynhgiabuu/pi-search) | Deep grep/glob, background shell, script edits, self-improving skills; web search. |
 | Teams | [piggery](https://github.com/sting8k/piggery) | Pi, Claude Code and Codex agents working as one team. Successor of [pi-peer](https://github.com/sting8k/pi-peer). |
 | Talking to me | [pi-askuserquestion](https://github.com/ghoseb/pi-askuserquestion) | Agent asks structured questions in the TUI. |
-| Behavior | [ponytail](https://github.com/DietrichGebert/ponytail) · [pi-augment](https://github.com/sting8k/pi-augment) | Smallest-change mindset; prompt augmentation. |
+| Behavior | [ponytail](https://github.com/DietrichGebert/ponytail) | Smallest-change mindset. |
 
 ## Security tools
 
