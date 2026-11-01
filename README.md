@@ -8,17 +8,21 @@ I build practical tools for coding agents, security research, and developer work
 - **[srcwalk](https://github.com/sting8k/srcwalk)** - Agent-focused code navigator CLI for outlining, searching, and tracing codebases.
 - **[paseo-mascot](https://github.com/sting8k/paseo-mascot)** - An AI-Slop koboyo page-mascot pet plugin for the Paseo composer.
 
-### My Pi suite
+### My Pi setup
 
-| Extension | Description |
-| :--- | :--- |
-| [pi-peer](https://github.com/sting8k/pi-peer) | Standalone peer-to-peer Pi communication over a HerdR workspace. |
-| [pi-utils](https://github.com/sting8k/pi-utils) | Utility extensions for Pi: deep grep/glob search incl. gitignored files, background shell, script-mode edit, and a self-improving skill_write layer. |
-| [pi-vcc](https://github.com/sting8k/pi-vcc) | Smart, Fast & Lossless session compaction for Pi. No LLM calls. |
-| [pi-droid-styling](https://github.com/sting8k/pi-droid-styling) | Opinionated Pi UI restyle: cleaner conversations, layouts & prompt styles, 25 built-in themes, batched streaming, and reload-safe render patches. |
-| [pi-themes](https://github.com/sting8k/pi-themes) | Custom themes for Pi Coding Agent. Use with pi-droid-styling. |
-| [pi-fastboot](https://github.com/sting8k/pi-fastboot) | Quick & dirty extension that makes normal Pi startup feel close to `PI_OFFLINE=1`. |
-| [pi-workspace-memory](https://github.com/sting8k/pi-workspace-memory) | Project-scoped Markdown memory for Pi: durable state, events, and research as an auxiliary channel, injected each turn. |
+What I actually run in [Pi](https://github.com/earendil-works/pi) every day.
+
+| Job | Tool | Description |
+| :--- | :--- | :--- |
+| Look & feel | [pi-geek-tui](https://github.com/sting8k/pi-geek-tui) · [pi-droid-styling](https://github.com/sting8k/pi-droid-styling) + [pi-themes](https://github.com/sting8k/pi-themes) | Two UIs I switch between: geek rail with one-row tool calls, or a full restyle with 25 themes. |
+| Startup | [pi-fastboot](https://github.com/sting8k/pi-fastboot) | Normal startup almost as fast as `PI_OFFLINE=1`. |
+| Long sessions | [pi-vcc](https://github.com/sting8k/pi-vcc) | Lossless compaction, no LLM calls. |
+| Memory | [pi-workspace-memory](https://github.com/sting8k/pi-workspace-memory) | Project-scoped memory injected each turn. |
+| Sessions | [pi-smart-sessions](https://github.com/sting8k/pi-smart-sessions) · [pi-treex](https://github.com/travisp/pi-treex) | Auto-named sessions; better `/tree`. |
+| Tools | [pi-utils](https://github.com/sting8k/pi-utils) · [pi-search](https://github.com/heyhuynhgiabuu/pi-search) | Deep grep/glob, background shell, script edits, self-improving skills; web search. |
+| Teams | [piggery](https://github.com/sting8k/piggery) | Pi, Claude Code and Codex agents working as one team. Successor of [pi-peer](https://github.com/sting8k/pi-peer). |
+| Talking to me | [pi-askuserquestion](https://github.com/ghoseb/pi-askuserquestion) | Agent asks structured questions in the TUI. |
+| Behavior | [ponytail](https://github.com/DietrichGebert/ponytail) · [pi-augment](https://github.com/sting8k/pi-augment) | Smallest-change mindset; prompt augmentation. |
 
 ## Security tools
 
